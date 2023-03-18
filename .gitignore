@@ -1,0 +1,4 @@
+build
+conan_src
+test/data/out/*
+conan-1.58.0.zip

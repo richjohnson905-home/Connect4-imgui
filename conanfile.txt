@@ -1,0 +1,9 @@
+[requires]
+  catch2/2.13.6
+  fakeit/2.0.9
+  imgui/1.74
+  glfw/3.3.8
+  glew/2.2.0
+
+[generators]
+  cmake
