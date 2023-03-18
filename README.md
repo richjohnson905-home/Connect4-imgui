@@ -3,6 +3,8 @@ C++ imgui Connect4
 
 The imgui graphics library is not upgraded for conan 2.0 yet so to use this project follow these steps:
 
+Also, go to conan-io github tags and download conan-1.58.0 zip.
+
 Uses python virtualenv.
 
     unzip conan-1.58.0.zip as conan_src
